@@ -45,3 +45,4 @@
 
 术语在各专题首次出现时解释；内部名称 Aerxoway、DMAP、DEC、XC、DRT、LLS、nlog 均保留原词，不猜测全称。通用示例与项目实现明确区分。这里提供的是提前达标路径，公司是否允许提前办理转正另行确认。
 # PUSCH_NR_ORAN
+# PUSCH_NR_ORAN
